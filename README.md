@@ -5,9 +5,9 @@
 
 Gatsby Starter Resume CMS is a free starter template with  Netlify CMS as headless CMS. It is easy to customize the design with thanks to tailwind theming capabilities. It uses git as a backend and can be deployed to any static hosting service like Netlify, firebase hosting or Github pages.
 
-[Demo](https://gatsby-resume-starter.netlify.com/)
+[Demo](https://waqar-eresume.netlify.com/)
 
-[Customization and Theming](https://barancezayirli.com/free-gatsby-resume-starter-with-netlify-cms/#customization)
+
 
 ## Features
 
@@ -29,7 +29,7 @@ Use the Gatsby CLI to create a new site, specifying the resume starter.
 
 ```shell
 # create a new Gatsby site using the blog starter
-gatsby new my-resume https://github.com/barancezayirli/gatsby-starter-resume-cms
+gatsby new my-resume https://github.com/waqaarahmad/gatsby-starter-resume-cms
 ```
 
 ### Start developing
@@ -45,7 +45,6 @@ gatsby develop
 
 The resume content is generated from `data/profile.json` file. You can manually edit this file or setup Netlify CMS for online editing.
 
-You can find more information on resume widgets and theming [here](https://barancezayirli.com/free-gatsby-resume-starter-with-netlify-cms/#customization).
 
 ### Netlify CMS as Headless CMS
 

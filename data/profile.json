@@ -1,9 +1,9 @@
 {
   "contact": {
-    "phone": "+380 63 251 76 44",
-    "email": "contact@barancezayirli.com",
-    "website": "https://barancezayirli.com",
-    "location": "Kiev, Ukraine"
+    "phone": "+92 333 540 1681",
+    "email": "waqaar.ahmad@yahoo.com",
+    "website": "https://itell-solutions.com",
+    "location": "Islamabad, Pakistan"
   },
   "skills": [
     {
@@ -199,7 +199,7 @@
       ]
     }
   ],
-  "summary": "Highly focused technologist with a multidisciplinary skill set honed over 15+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 15+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization, build teams that produce results.",
+  "summary": "A dynamic, hands-on, detail-oriented, and highly analytical IT professional with over 13 years of experience in the industry. Certified in Agile methodologies, Project Management and Data Validation, service delivery, change control, project lifecycles, data gathering, and code documentation. Solid reputation for diligence regarding project accuracy and enhanced end user functionality. Exemplary verbal and written communicator who demonstrates professionalism and clearly conveys project parameters to clients and team members.",
   "education": [
     {
       "institution": "Middle East Technical University, Turkey",
@@ -208,8 +208,8 @@
       "end": "2006"
     },
     {
-      "institution": "Gazi University, Turkey",
-      "degree": "Industrial Engineering",
+      "institution": "SZABIST, Pakistan",
+      "degree": "BS Computer Science",
       "start": "2002",
       "end": "2006"
     }
@@ -217,7 +217,7 @@
   "experience": [
     {
       "role": "Consultant",
-      "company": "Baran Cezayirli Consulting",
+      "company": "MCP Insights - UK",
       "description": "I consult startups to take their concept to the next level.",
       "start": "08/2018",
       "end": ""
@@ -272,7 +272,7 @@
     },
     {
       "service": "linkedin",
-      "url": "https://www.linkedin.com/in/barancezayirli"
+      "url": "https://www.linkedin.com/in/waqar-ahmed-itil%C2%AE-80979816/"
     },
     {
       "service": "twitter",
@@ -284,18 +284,18 @@
     },
     {
       "service": "github",
-      "url": "https://github.com/barancezayirli"
+      "url": "https://github.com/WaqaarAhmad"
     },
     {
       "service": "facebook",
-      "url": "https://www.facebook.com/barancezayirli"
+      "url": "https://www.facebook.com/waqarahmadisb/"
     },
     {
       "service": "instagram",
       "url": "https://www.instagram.com/barancezayirli"
     }
   ],
-  "role": "Technologist",
+  "role": "ITSM Professional (Team Lead)",
   "projects": [
     {
       "name": "Gatsby resume starter",
@@ -304,5 +304,5 @@
       "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
     }
   ],
-  "fullname": "Baran Cezayirli"
+  "fullname": "Waqar Ahmad"
 }
