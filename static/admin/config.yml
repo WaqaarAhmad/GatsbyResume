@@ -4,6 +4,8 @@ backend:
 
 media_folder: static/assets
 public_folder: assets
+site_url: https://waqarahmad-resume.netlify.app/
+display_url: https://waqarahmad-resume.netlify.app/
 
 collections:
   - name: content
