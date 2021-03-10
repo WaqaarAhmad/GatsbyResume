@@ -15,7 +15,7 @@ import '../main.css';
 
 const Home = () => (
   <main className="antialiased text-neutral-900 bg-neutral-100 min-h-screen sm:p-5">
-    <SEO title="WaqarAhmad-Resume" />
+    <SEO title="Resume-WaqarAhmad" />
     <div className="container mx-auto shadow bg-white py-5 px-10">
       <Header
         contacts={resume.contact}

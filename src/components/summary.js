@@ -6,7 +6,7 @@ const Summary = ({ data }) => (
       <img
         className="rounded-full mx-auto w-32 lg:w-full xl:w-4/5"
         src="./profile.jpg"
-        alt="profile"
+        alt="WaqarAhmad-profile"
       />
     </div>
     <p className="text-center tracking-wide leading-relaxed lg:text-left lg:mx-8 lg:text-lg">
