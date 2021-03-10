@@ -141,7 +141,7 @@
       ]
     }
   ],
-  "summary": "Certified IT specialist with 9 years of experience in IT Operations, IT Services Management, Systems and Product deployment and Project Management. Combines with strong troubleshooting, technical ability with proven expertise in leadership and skills to consistently deliver beneficial solutions. Valuable team player strong strategic planning capabilities, strive for excellence in all assignments assigned. Highly articulate demonstrating excellent interpersonal skills across all levels including peers, management, clients and end-users.",
+  "summary": "Certified IT specialist with 10+ years of experience in IT Operations, IT Services Management, Systems and Product deployment and Project Management. Combines with strong troubleshooting, technical ability with proven expertise in leadership and skills to consistently deliver beneficial solutions. Valuable team player strong strategic planning capabilities, strive for excellence in all assignments assigned. Highly articulate demonstrating excellent interpersonal skills across all levels including peers, management, clients and end-users.",
   
   "education": [
     
@@ -154,53 +154,32 @@
   ],
   "experience": [
     {
-      "role": "Consultant",
+      "role": "Manager IT Ops",
       "company": "MCP Insights - UK",
-      "description": "I consult startups to take their concept to the next level.",
+      "description": "Managing day to day IT operations and liaise with global teams to resolve technical issues. Accomplishing IT staff results by communicating job expectations; planning, monitoring, and appraising job results; coaching, counseling, and disciplining employees; initiating, coordinating, and enforcing systems, policies, and procedures.",
       "start": "08/2018",
       "end": ""
     },
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Malaeb Limited",
-      "description": "Malaeb is a group sports community and booking platform. I was managing all technical aspects of the product. I designed a new solution to improve the current platform, build and manage a new development team to migrate the new app. Implement better internal processes to increase productivity.",
-      "start": "11/2018",
-      "end": "09/2019"
+      "role": "System Administrator",
+      "company": "Cygnus Solutions",
+      "description": "AWS based Provisioning (AMIs, EC2, S3, EBS, RDS, CloudWatch, CloudEdure,Cloud-Formation, Security Groups, Network Routing/ACLs, VPC, ELB/ASGs and Redshift). Administer and troubleshoot Amazon Web Services (AWS) Virtual Private Clouds (VPCs), system or data integration, server performance, and HW and SW releases. Managing Version Control Systems (git, bitbucket). Design and deploy new applications and enhancements to existing applications, software, and operating systems.",
+      "start": "11/2016",
+      "end": "06/2018"
     },
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Solve Care",
-      "description": "Solve care is a healthcare blockchain platform. I was responsible for the client side development team and architecture of the platform. I was also active in product management team.",
-      "start": "04/2018",
-      "end": "11/2018"
+      "role": "Sr Application Support Engineer",
+      "company": "LMKT",
+      "description": "Build services relationship with customers and conduct service reviews for key customers. Review performance reports, service improvements, service quality and processes. Solution design, network architecture development, validation, implementation, and overall integration of products and SLA Compliance.",
+      "start": "04/2011",
+      "end": "02/2016"
     },
     {
-      "role": "Full Stack Lead Developer",
-      "company": "Applied Blockchain",
-      "description": "Applied Blockchain built blockchain applications for enterprises and startups. I built 4 full stack blockchain projects during my contract.",
-      "start": "10/2017",
-      "end": "04/2018"
-    },
-    {
-      "role": "Full Stack Lead Developer",
-      "company": "Dmapper",
-      "description": "Worked as a lead full-stack developer for Cortex which is B2B audit automation software for Deloitte. I was responsible for the architecture and development of the platform, managing development team.",
-      "start": "12/2016",
-      "end": "10/2017"
-    },
-    {
-      "role": "Front End Developer - UI/UX Designer",
-      "company": "GovRight",
-      "description": "GovRight provides citizens the opportunity to understand and contribute to government and legislation. I was responsible for the UX and development of admin interface for the platform.",
-      "start": "11/2015",
-      "end": "04/2016"
-    },
-    {
-      "role": "Full Stack Developer",
-      "company": "Freelance",
-      "description": "In the first years of my career, I had the privilege to work with many startups and building my own games and applications.",
-      "start": "04/2008",
-      "end": "01/2016"
+      "role": "Team Lead TAC",
+      "company": "LMKR",
+      "description": "Responsibled for managing both low and high-severity incidents across the entire incident life-cycle in accordance with availability, resolution and restoration SLAs,Problem and incident Management. Monitoring, Operation and Maintenance of Datacenter and DR Sites. Performing corrective and Preventive Maintenance actions recommended by Quality Assurance Team for the resolution of non-compliance with standards detected through monitoring and auditing of processes and procedures",
+      "start": "10/2006",
+      "end": "04/2011"
     }
   ],
   "social": [
@@ -230,16 +209,28 @@
     },
     {
       "service": "instagram",
-      "url": "https://www.instagram.com/barancezayirli"
+      "url": "https://www.instagram.com/waqaarahmad"
     }
   ],
   "role": "ITSM Professional (Team Lead)",
   "projects": [
     {
-      "name": "Gatsby resume starter",
-      "company": "Open source",
-      "description": "Gatsby resume tailwind is a free starter template with  Netlify CMS implementation. It is easy to customize the design with thanks to tailwind theming capabilities. It uses git as a backend and can be deployed to any static hosting service like Netlify, firebase hosting or Github pages.",
-      "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
+      "name": "V-Secur™ (RFID Integrated Building Management System)",
+      "company": "LMKT",
+      "description": " V-Secur™ is a centrally managed identification and resource management solution utilizing Automatic Identification and Data Capture (AIDC) technologies such as RFID and Biometrics. ",
+      "link": "http://www.v-secur.com/"
+    },
+    {
+      "name": "VO8 (Process Automation for Governance)",
+      "company": "LMKT",
+      "description": " The solution aims to offer a smooth transition to a paper-less environment by automating standard business processes, especially for the government and semi-government sectors.",
+      "link": "https://www.lmkt.com/products/vo8-workflow-and-process-automation-for-governments/"
+    },
+    {
+      "name": "Vdesk™ (Helpdesk Manager)",
+      "company": "LMKT",
+      "description": " V-Desk is a web-based helpdesk automation tool that typically uses Software as a Service (SaaS) model for addressing technical complaints. ",
+      "link": "https://www.lmkt.com/products/v-desk-helpdesk-automation-complaint-management/"
     }
   ],
   "fullname": "Waqar Ahmad"
