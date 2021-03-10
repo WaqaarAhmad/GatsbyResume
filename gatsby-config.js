@@ -7,7 +7,7 @@
 module.exports = {
   siteMetadata: {
     title: `Waqar Ahmad| Technologist`,
-    author: `Baran Cezayirli`,
+    author: `Waqar Ahmad`,
     description: `With 10+ years of experience in IT Industry, I help tech
               startups from idea phase to high volumes. I design and build
               scalable solutions, implement internal processes that fit your
