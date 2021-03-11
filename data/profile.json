@@ -152,6 +152,15 @@
       "end": "2006"
     }
   ],
+  "certification": [
+    
+    {
+      "institution": "Axelos",
+      "certificate": "ITIL V3",
+      "start": "2016"
+      
+    }
+  ],
   "experience": [
     {
       "role": "Manager IT Ops",
