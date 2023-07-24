@@ -135,6 +135,9 @@
           "name": "MySQL"
         },
         {
+          "name": "MariaDB"
+        },
+        {
           "name": "Microsoft SQL Server"
         }
        
@@ -163,18 +166,18 @@
   ],
   "experience": [
     {
-      "role": "Manager IT Ops",
-      "company": "MCP Insights - UK",
-      "description": "Managing day to day IT operations and liaise with global teams to resolve technical issues. Accomplishing IT staff results by communicating job expectations; planning, monitoring, and appraising job results; coaching, counseling, and disciplining employees; initiating, coordinating, and enforcing systems, policies, and procedures.",
-      "start": "08/2018",
+      "role": "Sr. System Administrator",
+      "company": "SiParadigm Diagnostic Informatics",
+      "description": "Managing application deployments, ",
+      "start": "03/2023",
       "end": ""
     },
     {
       "role": "System Administrator",
-      "company": "Cygnus Solutions",
-      "description": "AWS based Provisioning (AMIs, EC2, S3, EBS, RDS, CloudWatch, CloudEdure,Cloud-Formation, Security Groups, Network Routing/ACLs, VPC, ELB/ASGs and Redshift). Administer and troubleshoot Amazon Web Services (AWS) Virtual Private Clouds (VPCs), system or data integration, server performance, and HW and SW releases. Managing Version Control Systems (git, bitbucket). Design and deploy new applications and enhancements to existing applications, software, and operating systems.",
-      "start": "11/2016",
-      "end": "06/2018"
+      "company": "MCP Insights - UK",
+      "description": "Managing day-to-day IT operations and liaising with global teams to resolve technical issues. Accomplishing IT staff results by communicating job expectations; planning, monitoring, and appraising job results; coaching, counseling, and disciplining employees; initiating, coordinating, and enforcing systems, policies, and procedures.",
+      "start": "08/2016",
+      "end": "02/2023"
     },
     {
       "role": "Sr Application Support Engineer",
