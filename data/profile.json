@@ -75,56 +75,50 @@
       ]
     },
     {
-      "title": "Frameworks",
+      "title": "DevOps Tools",
       "type": "tag",
       "subskills": [
         {
-          "name": "React"
+          "name": "Jenkins"
         },
         
         {
-          "name": "React Native"
+          "name": "Docker/Containers"
         },
 
         
       {
-          "name": "Node"
+          "name": "Kubernetes"
         },
        
         {
-          "name": "Express"
+          "name": "Terraform"
         },
       
         {
-          "name": "Gatsby"
+          "name": "Prometheus"
         },
         {
-          "name": "Apollo"
+          "name": "Grafana"
         },
         {
-          "name": "GraphQL"
+          "name": "Zabbix"
         }
        
        
       ]
     },
     {
-      "title": "Software",
+      "title": "Operating System",
       "type": "tag",
       "subskills": [
         {
-          "name": "Docker"
+          "name": "Linux"
         },
         {
-          "name": "Kubernates"
+          "name": "Microsoft Windows"
         },
-        {
-          "name": "Trello"
-        },
-       
-        {
-          "name": "Google Analytics"
-        }
+        
       ]
     },
     {
@@ -168,7 +162,7 @@
     {
       "role": "Sr. System Administrator",
       "company": "SiParadigm Diagnostic Informatics",
-      "description": "implementing robust and secure DevOps practices in HIPAA compliant environments, software delivery, enhance security and compliance measures, and drive continuous improvement to support the organization's mission of delivering secure and reliable healthcare services. ",
+      "description": "Implementing and managing robust and secure DevOps practices in HIPAA compliant environments, software delivery, enhance security and compliance measures, and drive continuous improvement to support the organization's mission of delivering secure and reliable healthcare services. ",
       "start": "03/2023",
       "end": ""
     },
