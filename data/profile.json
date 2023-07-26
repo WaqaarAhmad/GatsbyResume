@@ -18,14 +18,17 @@
           "name": "Cloud Computing",
           "percent": 89
         },
-       
+       {
+          "name": "Dev Ops",
+          "percent": 81
+        },
         {
           "name": "Architecture",
-          "percent": 89
+          "percent": 80
         },
         {
           "name": "Web App Development",
-          "percent": 95
+          "percent": 75
         },
         {
           "name": "Product Management",
@@ -37,10 +40,7 @@
         },
        
         
-        {
-          "name": "Dev Ops",
-          "percent": 81
-        },
+        
         {
           "name": "Backend Development",
           "percent": 80
@@ -144,7 +144,7 @@
       ]
     }
   ],
-  "summary": "Certified IT specialist with 10+ years of experience in IT Operations, IT Services Management, Systems and Product deployment and Project Management. Combines with strong troubleshooting, technical ability with proven expertise in leadership and skills to consistently deliver beneficial solutions. Valuable team player strong strategic planning capabilities, strive for excellence in all assignments assigned. Highly articulate demonstrating excellent interpersonal skills across all levels including peers, management, clients and end-users.",
+  "summary": "Highly skilled and accomplished DevOps and Linux Administrator with over 10 years of experience in designing, implementing, and optimizing robust IT infrastructures. Seeking a challenging position where I can leverage my extensive expertise in DevOps methodologies, automation, and Linux administration to drive continuous improvement, enhance system reliability, and optimize operational efficiency.",
   
   "education": [
     
@@ -168,7 +168,7 @@
     {
       "role": "Sr. System Administrator",
       "company": "SiParadigm Diagnostic Informatics",
-      "description": "Managing application deployments, ",
+      "description": "implementing robust and secure DevOps practices in HIPAA compliant environments, software delivery, enhance security and compliance measures, and drive continuous improvement to support the organization's mission of delivering secure and reliable healthcare services. ",
       "start": "03/2023",
       "end": ""
     },
